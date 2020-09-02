@@ -1,4 +1,5 @@
 import tensorflow as tf
+import numpy as np
 
 learning_rate = 0.001
 training_iters = 10
